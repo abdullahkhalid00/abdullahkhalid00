@@ -1,44 +1,20 @@
 
-## Hey 👋, I'm Abdullah
+<h1>Hey 👋, I'm Abdullah</h1>
 
-I'm a fresh Computer Science graduate with 1+ year(s) of experience working in the fields of AI and NLP. 
+<ul>
+<li>🦾 A Machine Learning Engineer from <code>Pakistan <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" align="center" width=20 height=20/></code>.</li>
+<li>🔭 I'm currently working as an Artificial Intelligence Intern for <a href="https://grayhat.com.pk"><code>Grayhat</code></a>.</li>
+<li>🌱 I'm currently learning <code>Docker</code> and <code>Git</code> for Agile Methodology.</li>
+</ul>
 
- - 🔭 I'm currently working as an Artificial Intelligence intern for [Grayhat Developers](https://www.grayhat.com.pk/).
- - 🌱 I'm currently learning Docker and Git for Agile Methodology.
- - 📫 Reach me at iabdulahk@gmail.com.
- - 📄 Know more about my experiences at [abdullahkhalid00](https://linkedin.com/in/abdullahkhalid00).
+<h2>Socials</h2>
 
-### Connect With Me
+<ul>
+<li>📫 Drop me an email at <code>iabdulahk@gmail.com</code>.</li>
+<li>📄 Know more about my experiences on my <a href="https://linkedin.com/in/abdullahkhalid00"><code>LinkedIn</code>.</a></li>
+<li>🤙 Hit me up on my <a href="https://discord.com/abdullahkhalid_0"><code>Discord</code></a> if you feel like chatting.</li>
+</ul>
 
-<div align="left">
-  <a href="iabdulahk@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/abdulahkhalid00" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/abdulahk_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="abdullah00#4309" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+<h2>Tech Stack</h2>
 
-### Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a> <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a> <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
