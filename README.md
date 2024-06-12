@@ -2,8 +2,8 @@
 <h1>Hey 👋, I'm Abdullah</h1>
 
 <ul>
-<li>🦾 A Machine Learning Engineer from <code>Pakistan <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" align="center" width=20 height=20/></code>.</li>
-<li>🔭 I'm currently working as an Artificial Intelligence Intern for <a href="https://grayhat.com.pk"><code>Grayhat</code></a>.</li>
+<li>🦾 A Machine Learning Engineer from <code>Pakistan</code> <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" align="center" width=24 height=24/>.</li>
+<li>🔭 I'm currently working as an Artificial Intelligence Intern at <a href="https://grayhat.com.pk"><code>Grayhat</code></a>.</li>
 <li>🌱 I'm currently learning <code>Docker</code> and <code>Git</code> for Agile Methodology.</li>
 </ul>
 
@@ -11,7 +11,7 @@
 
 <ul>
 <li>📫 Drop me an email at <code>iabdulahk@gmail.com</code>.</li>
-<li>📄 Know more about my experiences on my <a href="https://linkedin.com/in/abdullahkhalid00"><code>LinkedIn</code>.</a></li>
+<li>📄 Know more about my experiences on my <a href="https://linkedin.com/in/abdullahkhalid00"><code>LinkedIn</code></a>.</li>
 <li>🤙 Hit me up on my <a href="https://discord.com/abdullahkhalid_0"><code>Discord</code></a> if you feel like chatting.</li>
 </ul>
 
