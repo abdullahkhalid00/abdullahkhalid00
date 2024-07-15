@@ -12,7 +12,7 @@
 <ul>
 <li>📫 Drop me an email at <code>iabdulahk@gmail.com</code>.</li>
 <li>📄 Know more about my experiences on my <a href="https://linkedin.com/in/abdullahkhalid00"><code>LinkedIn</code></a>.</li>
-<li>🤙 Hit me up on my <a href="https://discord.com/abdullahkhalid_0"><code>Discord</code></a> if you feel like chatting.</li>
+<li>🤙 Hit me up on my <a href="https://discord.com/a002k_"><code>Discord</code></a> if you feel like chatting.</li>
 </ul>
 
 <h2>Tech Stack</h2>
