@@ -1,20 +1,37 @@
+# Hey 👋, I'm Abdullah
 
-<h1>Hey 🙋‍♂️, I'm Abdullah</h1>
+## About
 
-<ul>
-<li>🦾 A Machine Learning Engineer from <code>Pakistan</code> <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" align="center" width=24 height=24/>.</li>
-<li>🔭 I'm currently working as an Artificial Intelligence Developer at <a href="https://aeyron.com/"><code>Aeyron</code></a>.</li>
-<li>🌍 I'm currently learning <a href="https://spinningup.openai.com/en/latest/"><code>Reinforcement Learning</code></a> in <code>Python</code>.
-</ul>
+- 🏢 AI Engineer @[`Aeyron`](https://aeyron.com)
+- 📝 Very interested in learning more about low-level programming and operating systems
+- 🐧 I tinker with Linux in my past-time, see my [`dotfiles`](https://github.com/abdullahkhalid00/dotfiles)
+- 🤝 Feel free to drop a PM if you have a project in mind or are looking to collaborate on one
 
-<h2>Socials</h2>
+### 🌏 Latest Venture
 
-<ul>
-<li>📫 Drop me an email at <code>iabdulahk@gmail.com</code>.</li>
-<li>📄 Know more about my experiences on <a href="https://linkedin.com/in/abdullahkhalid00"><code>LinkedIn</code></a>.</li>
-<li>🤙 Hit me up on my <code>discord:a002k_</code> if you feel like chatting.</li>
-</ul>
+Hosting my own blog / portfolio website on a `github.io` domain with [`Jekyll`](https://jekyllrb.com/) for theming.
 
-<h2>Stack</h2>
+## Stack
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a> <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a> <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us)
+
+**How I use this stack at work:**
+
+- [`Python`](https://www.python.org/) - Primary language for developing and tooling
+- [`FastAPI`](https://fastapi.tiangolo.com/) - API framework for serving applications on the go
+- [`MongoDB`](https://www.mongodb.com/) - Atlas for vector storage and semantic search
+- [`LangChain`](https://www.langchain.com/) - Framework for developing agentic workflows
+- [`Docker`](https://www.docker.com/) - Containerization
+- [`Google Cloud`](https://cloud.google.com/) / [`Microsoft Azure`](https://azure.microsoft.com/en-us) - Deploying containers on production
+
+## Contact
+
+- 📧 Mail - <iabdulahk@gmail.com>
+- 💼 LinkedIn - [abdullahkhalid00](https://linkedin.com/in/abdullahkhalid00)
+- 🤙 Discord - `a002k_`
