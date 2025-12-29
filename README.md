@@ -5,6 +5,7 @@
 - 🏢 AI Engineer @[Aeyron](https://aeyron.com)
 - 📝 Very interested in learning more about low-level programming and operating systems
 - 🐧 I tinker with Linux in my past-time, see my [dotfiles](https://github.com/abdullahkhalid00/dotfiles)
+- ✍ Check out my [blog](https://abdullahkhalid00.github.io)
 - 🤝 Feel free to drop a PM if you have a project in mind or are looking to collaborate on one
 
 ### 🌏 Latest Venture
@@ -35,3 +36,4 @@ Hosting my own blog and portfolio website on GitHub with [Jekyll](https://jekyll
 - 📧 Mail - <iabdulahk@gmail.com>
 - 💼 LinkedIn - [abdullahkhalid00](https://linkedin.com/in/abdullahkhalid00)
 - 🤙 Discord - [a002k_](https://discord.com/users/a002k_)
+
